@@ -1,3 +1,21 @@
+.navbar{
+    background-color: pink;
+}
+.navbar-brand{
+    background-color: pink;
+    color: black;
+}
+.navbar .form-control{
+    background-color: white;
+}
+
+.form-control{
+    width: 20%;
+}
+.navbar-light .navbar-nav .nav-link {
+    color: black;
+}
+
 #landing-section{
     height: 550px;
     width: 100%;
@@ -24,7 +42,7 @@
     width: 100%;
 }
 body{
-    background-color: #f8fbfe ;
+    background-color: pink ;
 }
 
 #logo img {
@@ -39,4 +57,18 @@ body{
 }
 #logo{
     background: #f8fbfe;
+}
+
+
+.top{
+    background-color: rgb(26, 25, 25);
+    color: white;
+}
+.list-group-item, .form-control{
+    background-color: rgb(26, 25, 25);
+    color: white;
+}
+.black{
+    background-color: black;
+    color: white;
 }
