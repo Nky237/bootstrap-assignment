@@ -3,6 +3,7 @@
 }
 .navbar{
     background-color: pink;
+    color: black;
 }
 .navbar-brand{
     background-color: pink;
@@ -42,6 +43,7 @@
 .btn-secondary{
     background-color: pink;
     width: 20%;
+    color: black;
 }
 
 .picture{

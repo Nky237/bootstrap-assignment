@@ -3,6 +3,7 @@
 }
 .navbar{
     background-color: pink;
+    color: black;
 }
 .navbar-brand{
     background-color: pink;
@@ -22,6 +23,13 @@
     background-color: pink;
     color: black;
 }
+ #landing-section .btn {
+    color: black;
+    background-color: pink;
+    width: 20%;
+
+}
+
 
 
 #landing-section{
@@ -63,4 +71,8 @@
 .black{
     background-color: black;
     color: white;
+}
+#city a{
+text-decoration: none;
+color: black;
 }
