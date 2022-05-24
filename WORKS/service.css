@@ -41,10 +41,18 @@
 .img-box img{
     width: 100%;
 }
-body{
+#landing-section .btn {
+    color: black;
+    background-color: pink;
+    width: 20%;
+
+}
+.card, #top-section,  #commit-section, #large{
     background-color: pink ;
 }
-
+#logo,#top-hero{
+    background-color: pink;
+}
 #logo img {
     max-width: 55%;
     filter: grayscale(100);
@@ -55,9 +63,7 @@ body{
     filter: grayscale(0);
     transform: scale(1.15);
 }
-#logo{
-    background: #f8fbfe;
-}
+
 
 
 .top{
