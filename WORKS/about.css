@@ -1,12 +1,15 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
 .navbar{
-    background-color: pink;
+    background-color: #DAC9B7;
 }
 .navbar-brand{
-    background-color: pink;
+    background-color: #DAC9B7;
     color: black;
 }
 .navbar .form-control{
-    background-color: white;
+    background-color: #DAC9B7;
 }
 
 .form-control{
@@ -43,15 +46,15 @@
 }
 #landing-section .btn {
     color: black;
-    background-color: pink;
+    background-color: #DAC9B7;
     width: 20%;
 
 }
 .card, #top-section,  #commit-section, #large{
-    background-color: pink ;
+    background-color: #DAC9B7 ;
 }
 #logo,#top-hero{
-    background-color: pink;
+    background-color: #9D928C;
 }
 #logo img {
     max-width: 55%;

@@ -1,12 +1,15 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
 .container{
     overflow: hidden;
 }
 .navbar{
-    background-color: pink;
+    background-color: #DAC9B7;
     color: black;
 }
 .navbar-brand{
-    background-color: pink;
+    background-color: #DAC9B7;
     color: black;
 }
 .navbar .form-control{
@@ -20,12 +23,12 @@
     color: black;
 }
 #form-section{
-    background-color: pink;
+    background-color: #DAC9B7;
     color: black;
 }
  #landing-section .btn {
     color: black;
-    background-color: pink;
+    background-color: #DAC9B7;
     width: 20%;
 
 }
